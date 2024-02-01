@@ -1,4 +1,4 @@
-package com.hantest.controller;
+package com.hantest.hello.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
