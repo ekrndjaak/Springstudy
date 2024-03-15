@@ -1,4 +1,4 @@
-package HG.HelloSpring;
+package HG;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
